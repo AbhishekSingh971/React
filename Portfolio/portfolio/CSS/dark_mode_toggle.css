@@ -1,0 +1,64 @@
+/* -----------------------dark------------------- */
+
+.dark {
+  background-color: black;
+  color: white;
+}
+
+.textDark {
+  color: black;
+}
+
+.backDark {
+  background-color: black;
+}
+
+.idark {
+  color: black;
+}
+.div_2_d {
+  border-right: 3px solid black;
+}
+
+.hover_icon_dark{
+    background-color: black ;
+    /* margin-left:2px;
+    margin-right:2px;
+    border: 2px solid black; */
+    border-width: 4px;
+    color:white;
+    border-radius: 10%;
+  }
+  
+  .hover_icon_light{
+    background-color: white ;
+    /* margin-left:2px;
+    margin-right:2px;
+    border: 2px solid rgb(253, 253, 251); */
+    border-width: 4px;
+    color: black;
+    border-radius: 10%;
+  }
+
+
+
+/* ------------------light--------------------------- */
+.div_2_l {
+  border-right: 3px solid white;
+}
+.light {
+  background-color: white;
+  color: black;
+}
+
+.textLight {
+  color: white;
+}
+
+.backLight {
+  background-color: white;
+}
+
+.ilight {
+  color: white;
+}
